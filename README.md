@@ -1,6 +1,6 @@
 # 🌿 Online Natural & Organic Product Store
 
-An online platform that offers eco-friendly, chemical-free, and sustainably sourced products. This project was developed as my Final Year Project (FYP) using **HTML**, **CSS**, **JavaScript**, and **CodeIgniter 3 (PHP Framework)** with a MySQL database. The system allows customers to browse, search, and purchase products while providing an admin panel for managing the store efficiently.
+An online platform that offers eco-friendly, chemical-free, and sustainably sourced products. This project was developed  using **HTML**, **CSS**, **JavaScript**, and **CodeIgniter 3 (PHP Framework)** with a MySQL database. The system allows customers to browse, search, and purchase products while providing an admin panel for managing the store efficiently.
 
 ---
 
@@ -89,11 +89,7 @@ Contains ** tables** related to:
 5. **Run the project**
    - Open browser: `http://localhost/YourProjectFolder`
 
----
 
-## 📸 Screenshots
-
-![alt text](image-1.png)
 
 ## 🎯 Project Goals
 
@@ -112,5 +108,3 @@ This project is for **educational purposes** only. All rights reserved by the au
 ## 👤 Author
 
 **Muhammad Suleman**  
-BS IT (Session: 2021-2025)  
-Ghazi University, Dera Ghazi Khan
